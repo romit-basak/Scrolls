@@ -15,10 +15,10 @@ A website to host literary works, classics as well as user submissions.
 
 ## Road map
 
-- First we will create an AI model for genre, targeted age group, and author identification.
-- Then we will create a system for user profiles. The reading preferences of the user would be assessed through their age, the posts they like, and time spent reading different genres/authors.
-- A basic text editor will be created where authors can write, edit and preview their work before submission.
-- The news feed will be created next. Articles from various news outlets will be summarised and shown based on most recent and important events.
+1. We will create an AI model for genre, targeted age group, and author identification.
+2. We will create a system for user profiles. The reading preferences of the user would be assessed through their age, the posts they like, and time spent reading different genres/authors.
+3. A basic text editor will be created where authors can write, edit and preview their work before submission.
+4. The news feed will be created next. Articles from various news outlets will be summarised and shown based on most recent and important events.
 
 ## Deployment
 
