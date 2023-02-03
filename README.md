@@ -1,3 +1,4 @@
+![Scrolls](https://github.com/romit-basak/Scrolls/blob/master/scrolls_logo.png)
 
 # Scrolls
 
